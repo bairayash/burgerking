@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>List of items</title>
+	<title>List items</title>
 </head>
 <body>
 
